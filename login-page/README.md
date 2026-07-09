@@ -18,7 +18,7 @@ A clean and responsive login page built using HTML and CSS.
 
 ## 📸 Preview
 
-![Preview](preview.png)
+![Preview](Screenshot-preview.png)
 
 ## 📂 Folder Structure
 
